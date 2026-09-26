@@ -22,9 +22,6 @@ My focus is on practical, real-world software: web applications, developer tools
 
 Growing my skills across the full stack — modern front-end, backend APIs, and practical automation — one project at a time.
 
-## Connect
-
-- GitHub: [github.com/Danger15535x](https://github.com/Danger15535x)
 
 ---
 
