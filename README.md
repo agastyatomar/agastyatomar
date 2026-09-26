@@ -139,14 +139,20 @@ mindset: learning beginner → advanced, one real project at a time
 
 ## 🎯 My Learning Journey
 
-```mermaid
-graph TD
-    A[Programming Fundamentals] --> B[Web Development]
-    B --> C[Frontend + Backend]
-    C --> D[Full-Stack Applications]
-    D --> E[AI & Automation]
-    E --> F[Developer Tools]
-    F --> G[Advanced Software Engineering]
+```
+Programming Fundamentals
+        ↓
+   Web Development
+        ↓
+ Frontend + Backend
+        ↓
+Full-Stack Applications
+        ↓
+   AI & Automation
+        ↓
+  Developer Tools
+        ↓
+Advanced Software Engineering
 ```
 
 My goal is not just to learn technologies, but to understand how software actually works and use that knowledge to solve real problems.
