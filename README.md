@@ -1,237 +1,440 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1F1F1F&height=200&section=header&text=Agastya%20Tomar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aadi%20·%20Full-Stack%20Developer%20·%20Student%20·%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:0f172a&height=220&section=header&text=AGASTYA%20TOMAR&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aadi%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Student&descAlignY=57&descSize=20" width="100%" alt="Agastya Tomar header"/>
 
-<a href="https://github.com/agastyatomar/AETHER">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Student+%26+Independent+Developer;Building+AETHER+%E2%80%94+a+personal+AI+ecosystem;Full-Stack+%7C+AI+Agents+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+<a href="https://github.com/agastyatomar">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=55&lines=BUILDING+SOFTWARE+FROM+IDEA+TO+REALITY;FULL-STACK+WEB+%7C+AI+%7C+AUTOMATION+%7C+DEV+TOOLS;LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+IMPROVE;WELCOME+TO+MY+DEVELOPER+WORKSPACE" alt="Typing animation"/>
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-agastyatomar-181717?style=for-the-badge&logo=github)](https://github.com/agastyatomar)
-[![Location](https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Focusing-brightgreen?style=for-the-badge&logo=target)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-agastyatomar-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agastyatomar)
+[![AETHER](https://img.shields.io/badge/FOCUS-AETHER-111111?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/agastyatomar/AETHER)
+[![Profile Automation](https://img.shields.io/github/actions/workflow/status/agastyatomar/agastyatomar/snake.yml?branch=main&style=for-the-badge&label=PROFILE%20AUTOMATION)](https://github.com/agastyatomar/agastyatomar/actions)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=agastyatomar&label=PROFILE%20VIEWS&color=111111&style=for-the-badge)
 
 </div>
 
-I'm Agastya Tomar (**Aadi**), a student and independent developer from India who enjoys building practical software, modern web experiences, developer tools, and automation systems.
+---
 
-I'm focused on learning by building real projects, experimenting with new technologies, and turning ideas into useful products.
+# 👨‍💻 AGASTYA TOMAR
 
-<br/>
+> **Agastya Tomar — Aadi**
+>
+> Student • Developer • Builder • Curious Engineer
 
-## 🚀 About Me
+I build software to learn how software works.
 
-```yaml
-name: Agastya Tomar
-alias: Aadi
-role: Student & Aspiring Software Engineer
-focus:
-  - Full-Stack Web Development
-  - AI, Agents & Automation
-  - Modern UI/UX experiences
-  - Android, Termux & mobile dev workflows
-  - Developer tools & productivity systems
-  - Cloud, storage & backend systems
-currently: strengthening programming & software-engineering fundamentals
-mindset: learning beginner → advanced, one real project at a time
-```
+My interests sit at the intersection of **web development, AI systems, automation, developer tooling, UI/UX, and practical problem solving**. I like turning an idea into something that can actually run, be tested, improved, and shared.
 
-<br/>
+I am learning continuously, so this profile intentionally separates **what I am building** from **what I am still exploring**.
 
-## 🧠 What I'm Interested In
+---
+
+# 🧭 DEVELOPER IDENTITY
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🌐 Web Development**
-- Frontend
-- Backend
-- APIs
-- Full-Stack Applications
+### 👤 Identity
 
-**🤖 AI & Automation**
-- AI Agents
-- LLM Applications
-- Developer Automation
-- Workflow Automation
-- Local AI
+- **Name:** Agastya Tomar
+- **Nickname:** Aadi
+- **GitHub:** agastyatomar
+- **Role:** Student & Developer
+- **Approach:** Build-first learning
+- **Interests:** Software, AI, automation & design
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🛠️ Developer Tools**
-- CLI Tools
-- IDE Concepts
-- Git & GitHub
-- Termux
-- Productivity Systems
+### 🎯 Current Direction
 
-**🎨 Design**
+- Full-stack web development
+- Programming fundamentals
+- AI & agentic workflows
+- Developer tools
+- Mobile / Termux workflows
 - Modern UI/UX
-- Responsive Interfaces
-- Animations
-- Glassmorphism
-- Interactive Experiences
+- Open-source development
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🔭 Currently Building
+# 🔁 THE BUILD LOOP
 
 <div align="center">
-<img src="https://img.shields.io/badge/⚡_AETHER-Your_personal_AI_ecosystem-1F1F1F?style=for-the-badge" />
+
+**IDEA → LEARN → BUILD → TEST → BREAK → FIX → IMPROVE → REPEAT**
+
 </div>
 
-**AETHER** — a personal AI ecosystem focused on bringing AI agents, voice interaction, coding workflows, automation, tools and knowledge systems together in one developer-focused environment.
+I prefer practical learning through real projects, experiments, debugging, and iteration.
+
+---
+
+# 🧩 WHAT I BUILD
 
 <table>
 <tr>
-<td>🤖 AI Agents</td>
-<td>🎙️ Voice interaction</td>
-<td>💻 Agentic coding</td>
-</tr>
-<tr>
-<td>🧩 Plugins & skills</td>
-<td>🔌 MCP integrations</td>
-<td>🧠 Memory & knowledge</td>
-</tr>
-<tr>
-<td>⚙️ Automation & workflows</td>
-<td>🖥️ Developer workspace</td>
-<td>🔐 Secure tool execution</td>
+<td valign="top" width="33%">
+
+### 🌐 WEB
+
+- Full-stack applications
+- Dashboards
+- PWAs
+- APIs
+- Responsive interfaces
+- Interactive experiences
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI
+
+- AI-powered workflows
+- Agent systems
+- Local AI experiments
+- Coding assistants
+- Automation
+- Tool integrations
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ DEV TOOLS
+
+- CLI utilities
+- Termux workflows
+- Git/GitHub tooling
+- IDE concepts
+- File systems
+- Productivity tools
+
+</td>
 </tr>
 </table>
 
-📌 **Repository:** [github.com/agastyatomar/AETHER](https://github.com/agastyatomar/AETHER)
+---
 
-<br/>
-
-## 🛠️ Technologies I'm Exploring
+# ⚡ AETHER
 
 <div align="center">
 
-**Web**
+## A developer-focused AI ecosystem
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,supabase" />
-
-**AI & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-**UI / Creative**
-
-<img src="https://skillicons.dev/icons?i=tailwind,threejs" />
+[![AETHER Stars](https://img.shields.io/github/stars/agastyatomar/AETHER?style=for-the-badge&logo=github&label=STARS)](https://github.com/agastyatomar/AETHER)
+[![AETHER Forks](https://img.shields.io/github/forks/agastyatomar/AETHER?style=for-the-badge&logo=github&label=FORKS)](https://github.com/agastyatomar/AETHER)
+[![AETHER Last Commit](https://img.shields.io/github/last-commit/agastyatomar/AETHER?style=for-the-badge&logo=git&label=LAST%20COMMIT)](https://github.com/agastyatomar/AETHER)
 
 </div>
 
-> I'm continuously learning, so this list represents technologies I'm exploring rather than claiming expertise in all of them.
+AETHER is the project I use to explore how **AI agents, coding workflows, automation, tools, integrations, and developer experiences** can work together as one system.
 
-<br/>
+### AETHER direction
 
-## 🎯 My Learning Journey
+**AI → Agents → Coding → Automation → Tools → Integrations → Knowledge → Developer Experience**
 
-```
-Programming Fundamentals
-        ↓
-   Web Development
-        ↓
- Frontend + Backend
-        ↓
-Full-Stack Applications
-        ↓
-   AI & Automation
-        ↓
-  Developer Tools
-        ↓
-Advanced Software Engineering
-```
+**Repository:** https://github.com/agastyatomar/AETHER
 
-My goal is not just to learn technologies, but to understand how software actually works and use that knowledge to solve real problems.
+---
 
-<br/>
+# 🌌 PROJECT UNIVERSE
 
-## 🧪 My Approach
+| Area | What I explore |
+|---|---|
+| 🌐 **Web** | Full-stack apps, dashboards, PWAs, UI systems |
+| 🤖 **AI** | Agents, LLM workflows, local AI, automation |
+| 🛠️ **Developer Tools** | CLI tools, Git workflows, coding utilities |
+| 📱 **Mobile** | Android, Termux, mobile-first developer workflows |
+| ☁️ **Storage** | Cloud integrations, backup systems, file workflows |
+| 📚 **Education** | Learning platforms and study-focused products |
+| 🎨 **Creative Tech** | Animation, 3D interfaces, media workflows |
+| ⚙️ **Automation** | APIs, scripts, scheduled workflows, CI/CD |
+
+---
+
+# 🧰 TECHNOLOGY MAP
 
 <div align="center">
 
-### `Learn → Build → Break → Fix → Improve → Repeat`
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Web technologies"/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,supabase,postgres" alt="Backend technologies"/>
+
+### Developer Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Developer tools"/>
+
+### Creative / 3D
+
+<img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/>
 
 </div>
 
-I prefer practical learning through projects rather than only following tutorials. Every project is a chance to learn more about **architecture, programming, UI/UX, APIs, databases, automation, security, performance,** and **open-source development**.
+> These represent technologies I use, study, or explore. The list is not a claim of expert-level mastery in every technology.
 
-<br/>
+---
 
-## 📊 GitHub Stats
+# 🔬 ENGINEERING INTERESTS
+
+<details>
+<summary><b>🌐 Full-Stack Development</b></summary>
+
+UI → Components → Application Logic → API → Authentication → Database → Storage → Deployment → Monitoring
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Agentic Systems</b></summary>
+
+Agent orchestration, tool calling, coding agents, workflow automation, local models, AI-assisted development, context systems, memory systems, and human-in-the-loop workflows.
+
+</details>
+
+<details>
+<summary><b>📱 Android + Termux</b></summary>
+
+Android + Termux + Git + Python + Node.js + Shell + Local AI + Developer Automation.
+
+</details>
+
+<details>
+<summary><b>🎨 UI / UX</b></summary>
+
+Clean information architecture, responsive layouts, glass-style interfaces, motion, micro-interactions, 3D interfaces, accessibility, and performance-aware visual design.
+
+</details>
+
+---
+
+# 📊 GITHUB LIVE STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agastyatomar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=agastyatomar&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=agastyatomar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyatomar&hide_border=true&theme=transparent" width="49%" alt="GitHub streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastyatomar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastyatomar&layout=compact&hide_border=true&theme=transparent&langs_count=10" width="49%" alt="Top languages"/>
 
 </div>
 
-<br/>
+---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/agastyatomar/agastyatomar/output/github-snake-dark.svg" width="100%" />
-</div>
-
-> Set this up via the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action — it generates an animated snake that "eats" your contribution graph, committed to an `output` branch on a schedule.
-
-<br/>
-
-## 💡 Philosophy
+# 🐍 CONTRIBUTION GRAPH
 
 <div align="center">
 
-*Don't just use technology.*
-**Understand it. Build with it. Improve it. Share it.**
+<img src="https://raw.githubusercontent.com/agastyatomar/agastyatomar/output/github-snake.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
-<br/>
+The contribution animation is generated automatically by a GitHub Action in this repository.
 
-## ⚡ Fun Fact
+---
 
-> I enjoy taking an idea that starts as *"What if I built this?"*
-> and turning it into *"It's actually working. 🚀"*
+# ⚙️ GITHUB AUTOMATION
 
-<br/>
+This profile is designed to be more than static Markdown.
 
-## 🌐 Connect With Me
+### Automated features
+
+- 🐍 Contribution graph animation
+- 🔄 Scheduled profile asset generation
+- 📊 Live GitHub statistics
+- 📈 Repository activity widgets
+- 🏷️ Dynamic repository badges
+- 🧩 Expandable technical sections
+- 🔗 Direct project navigation
+- 🤖 GitHub Actions integration
+
+### Automation pipeline
+
+**GitHub Actions → Scheduled Run → Generate Asset → Publish Asset → Profile README**
+
+---
+
+# 🗺️ LEARNING ROADMAP
+
+**Programming Fundamentals**
+↓
+**Web Development**
+↓
+**Frontend + Backend**
+↓
+**Full-Stack Applications**
+↓
+**AI + Automation**
+↓
+**Developer Tools**
+↓
+**Advanced Software Engineering**
+
+My goal is not simply to collect technologies. I want to understand the fundamentals behind the systems I build.
+
+---
+
+# 🧠 BUILD PRINCIPLES
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agastyatomar)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+### 01 — BUILD REAL THINGS
+A project should teach something useful.
 
-**Name:** Agastya Tomar · **Nickname:** Aadi · **Location:** India 🇮🇳
+### 02 — UNDERSTAND FUNDAMENTALS
+Tools change. Fundamentals remain valuable.
+
+### 03 — KEEP SYSTEMS SIMPLE
+Complexity should solve a real problem.
+
+### 04 — AUTOMATE REPETITION
+Repeated work is a candidate for automation.
+
+### 05 — MAKE IT USABLE
+A technically working project should still be understandable.
+
+### 06 — KEEP LEARNING
+Every bug is another opportunity to understand the system.
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1F1F1F&height=100&section=footer" width="100%"/>
+# 🌱 OPEN-SOURCE MINDSET
+
+I want my public GitHub presence to reflect **real work, real learning, and real progress**.
+
+- No fabricated achievements
+- No fake contribution history
+- No misleading technology claims
+- No artificial project metrics
+- Real commits
+- Real projects
+- Real experiments
+- Real improvements
+
+> **Build something worth showing. Then let the work speak.**
+
+---
+
+# 🖥️ DEVELOPER COMMAND CENTER
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!** Explore my repositories and follow along as I build, learn, and improve.
+[![Repositories](https://img.shields.io/badge/📦%20Repositories-Explore-111111?style=for-the-badge)](https://github.com/agastyatomar?tab=repositories)
+[![AETHER](https://img.shields.io/badge/⚡%20AETHER-Open-111111?style=for-the-badge)](https://github.com/agastyatomar/AETHER)
+[![Stars](https://img.shields.io/badge/⭐%20Stars-Explore-111111?style=for-the-badge)](https://github.com/agastyatomar?tab=stars)
+[![Projects](https://img.shields.io/badge/🗂️%20Projects-Open-111111?style=for-the-badge)](https://github.com/agastyatomar?tab=projects)
 
-<img src="https://komarev.com/ghpvc/?username=agastyatomar&label=Profile%20Views&color=58A6FF&style=flat" />
+</div>
+
+---
+
+# 🏗️ PROFILE ARCHITECTURE
+
+**AGASTYA TOMAR**
+- 👤 Identity
+- 🧠 Learning
+- 🚀 Building
+- ⚙️ Automation
+- 🌐 Open Source
+- 🎨 Design
+- 🤖 AI
+- 🛠️ Developer Tools
+
+---
+
+# 🔭 NOW
+
+<div align="center">
+
+### 🔨 BUILDING
+**AETHER + developer-focused software experiments**
+
+### 📚 LEARNING
+**Programming fundamentals + full-stack engineering**
+
+### 🧪 EXPLORING
+**AI agents + automation + developer tooling**
+
+### 🎯 LONG-TERM
+**Become a strong software engineer by building real systems**
+
+</div>
+
+---
+
+# ❓ FAQ
+
+<details>
+<summary><b>Who is Agastya Tomar?</b></summary>
+
+Agastya Tomar, also known as Aadi, is a student and developer interested in web development, AI, automation, developer tools, and modern software engineering.
+
+</details>
+
+<details>
+<summary><b>What is AETHER?</b></summary>
+
+AETHER is a developer-focused AI ecosystem project exploring agents, coding workflows, automation, tools, integrations, and knowledge systems.
+
+</details>
+
+<details>
+<summary><b>What is the purpose of this profile?</b></summary>
+
+To document real projects, learning progress, experiments, and technologies being explored.
+
+</details>
+
+<details>
+<summary><b>Is every technology listed a mastered skill?</b></summary>
+
+No. The technology map includes technologies being used or explored. Depth changes as projects progress.
+
+</details>
+
+---
+
+# 🔗 CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Agastya%20Tomar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agastyatomar)
+[![AETHER](https://img.shields.io/badge/AETHER-Project-111111?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/agastyatomar/AETHER)
+
+</div>
+
+---
+
+# 🚀 FINAL
+
+<div align="center">
+
+## I don't want to only learn technology.
+
+## I want to understand it, build with it, and make useful things.
+
+### **LEARN → BUILD → SHIP → LEARN → REPEAT**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:0f172a&height=140&section=footer" width="100%" alt="Footer"/>
+
+**© Agastya Tomar • Aadi**
 
 </div>
